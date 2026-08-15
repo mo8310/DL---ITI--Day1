@@ -11,10 +11,4 @@
 │
 ├── Day-2
 
-│   ├── 
-
-│   ├── 
-
-│   ├── 
-
-│   └── 
+│   ├── rice-classification-cnn.ipynb
