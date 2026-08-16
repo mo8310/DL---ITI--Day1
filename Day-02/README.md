@@ -1,8 +1,8 @@
-# Note: Due to the relatively large size of the notebook and the saved training outputs, GitHub may be unable to render the notebook directly in the browser.
-# The notebook includes the complete model implementation, training process, evaluation results and the ReduceLROnPlateau callback.
-# Downloading the .ipynb file and opening it locally will allow the notebook to run and display normally.
+## Note: Due to the relatively large size of the notebook and the saved training outputs, GitHub may be unable to render the notebook directly in the browser.
+## The notebook includes the complete model implementation, training process, evaluation results and the ReduceLROnPlateau callback. Downloading the .ipynb file and opening it locally will allow the notebook to run and display normally.
 
-## The model results and evaluation metrics are provided below for easy reference.
+
+# The model results and evaluation metrics are provided below for easy reference.
 
 # Class Distribution
 <img width="876" height="94" alt="image" src="https://github.com/user-attachments/assets/cd4cc20f-e8ef-4b87-a5e8-193a15028f38" />
