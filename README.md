@@ -8,7 +8,12 @@
 │   ├── bengaluru_house_prices.csv
 
 │   └── churn-modeling-deep-nn.ipynb
-│
+
+
 ├── Day-2
 
 │   ├── rice-classification-cnn.ipynb
+
+│   ├── Kaggle - Computer Vision Certificate
+
+│   ├── Kaggle - Deep Learning Certificate
